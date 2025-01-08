@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="min-w-full flex items-center justify-between px-4 bg-black text-white mb-6">
       <div>
-        <img src="/src/assets/logo.png" alt="logo" className="w-28" />
+        <img src="/assets/logo.png" alt="logo" className="w-28" />
       </div>
 
       {/* Desktop Menu */}

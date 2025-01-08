@@ -14,7 +14,7 @@ const App = () => {
       <Navbar />
       <main>
         <section className="min-h-full flex justify-center items-center">
-          <img src="/src/assets/banner.png" alt="banner" />
+          <img src="/assets/banner.png" alt="banner" />
         </section>
         <ProductCard />
         <SegmentsSection />

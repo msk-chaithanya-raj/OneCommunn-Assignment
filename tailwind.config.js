@@ -7,7 +7,7 @@ export default {
         poppins: ["Poppins", "sans-serif"],
       },
       backgroundImage: {
-        banner: "url('/src/assets/banner.png')",
+        banner: "url('/assets/banner.png')",
       },
       colors: {
         lightgrey: "#D3D3D3",

@@ -23,7 +23,7 @@ The `App` component is the main entry point of the application and incorporates 
 1. **Navbar**: The navigation bar component, placed at the top for global site navigation.
 2. **Main Content**: The `main` tag wraps all main sections of the page, structured as follows:
 
-   - **Banner Section**: Displays a banner image sourced from `/src/assets/banner.png`, centered in a flex container.
+   - **Banner Section**: Displays a banner image sourced from `/assets/banner.png`, centered in a flex container.
    - **ProductCard**: Displays a product card component with details like product images, descriptions, and pricing.
    - **SegmentsSection**: Showcases different product categories or segments, enabling users to explore various groups.
    - **TrendingProducts**: Displays a carousel or grid of popular or trending products.
